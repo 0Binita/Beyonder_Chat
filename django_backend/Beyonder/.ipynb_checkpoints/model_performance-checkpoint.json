@@ -1,0 +1,25 @@
+{
+  "svc": {
+    "accuracy": 71.7,
+    "precision": 73.3,
+    "recall": 71.7,
+    "f1_score": 72.0
+  },
+  "naive_bayes": {
+    "accuracy": 65.8,
+    "precision": 67.6,
+    "recall": 65.8,
+    "f1_score": 66.2
+  },
+  "dataset_stats": {
+    "total_samples": 3224,
+    "training_samples": 27480,
+    "test_samples": 3224,
+    "classes": 3,
+    "class_distribution": {
+      "neutral": 1121,
+      "positive": 1103,
+      "negative": 1000
+    }
+  }
+}
